@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "SpiderTaming",
+    "name": "SpiderTaming",
+    "authors": [ "xxPRETTYBOY" ],
+    "maintainers": [ "xxPRETTYBOY" ],
+    "description": "Cataclysm but with spider friends!",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
